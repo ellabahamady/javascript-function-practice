@@ -1,0 +1,14 @@
+{
+  "name": "javascript-function-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
